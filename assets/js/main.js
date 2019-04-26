@@ -89,8 +89,8 @@
                 'images/207.jpg': 'center',
                 'images/188.jpg': 'left',
                 'images/3294.jpg': 'center',
-                'images/19.jpg': 'center',
-                'images/bg01.jpg': 'center'
+                'images/19.jpg': 'center'
+                //'images/bg01.jpg': 'center'
             },
 
             // Delay.
